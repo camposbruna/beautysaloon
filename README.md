@@ -2,4 +2,4 @@
 
 Projeto criado através do curso da Rocketseat.
 
-[Clique aqui para acessar o projeto](https://camposbruna.github.io/beautysaloon/)
+[Clique aqui para visualizar o projeto](https://camposbruna.github.io/beautysaloon/)
